@@ -1,0 +1,7 @@
+{
+  "name": "TalentScout AI - Smart Interview Agent",
+  "description": "An automated AI interviewer that conducts real-time technical and behavioral interviews, analyzes candidate responses, and provides a comprehensive hiring report with data visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
